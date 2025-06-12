@@ -1,2 +1,2 @@
-# frontend-metor-Frontend-Quiz-app
+# frontend-mentor-Frontend-Quiz-app
 Frontend Quiz app Challenge on FrontendMentor
